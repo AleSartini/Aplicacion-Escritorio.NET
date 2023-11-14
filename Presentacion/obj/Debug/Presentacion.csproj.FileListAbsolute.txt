@@ -1,0 +1,17 @@
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\obj\Debug\Presentacion.Catalogo.resources
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\obj\Debug\Presentacion.VerDetalle.resources
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Alexis\Desktop\TPFinalNivel2_Sanchez\Presentacion\obj\Debug\Presentacion.btnAgregarImg.resources
